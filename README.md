@@ -2,7 +2,7 @@
 
 📊 E-commerce Customer Analysis
 
-Analyzed customer behavior using RFM model
-Segmented customers into loyalty groups
-Built Power BI dashboards
-Improved retention strategy
+  1) Analyzed customer behavior using RFM model
+  2) Segmented customers into loyalty groups
+  3) Built Power BI dashboards
+  4) Improved retention strategy
